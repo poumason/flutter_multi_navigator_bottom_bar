@@ -5,7 +5,7 @@ author: showang <showang730@gmail.com>
 homepage: https://github.com/showang/flutter_multi_navigator_bottom_bar
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: ">=2.6.0 <3.0.0"
 
 dependencies:
   flutter:
